@@ -61,7 +61,7 @@ publishing {
         release(MavenPublication) {
             groupId = "com.github.JosueJDK"
             artifactId = "EasyWayLocation"
-            version = '0.0.1'
+            version = '1.0'
 
             afterEvaluate {
                 from components.release
