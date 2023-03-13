@@ -55,7 +55,7 @@ publishing {
         mavenJava(MavenPublication) {
             groupId='com.github.JosueJDK'
             artifactId='easy-way-location'
-            version = '0.1'
+            version = '1.0'
         }
     }
 }
